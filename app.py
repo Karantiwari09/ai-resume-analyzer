@@ -1,4 +1,6 @@
 import streamlit as st
+import os
+os.system("python -m spacy download en_core_web_sm")
 from utils.resume_parser import extract_text_from_pdf
 from utils.skill_matcher import load_skill_list, match_skills, calculate_score
 from utils.ner_extractor import extract_entities
