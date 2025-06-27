@@ -1,0 +1,93 @@
+python
+java
+c++
+c
+html
+css
+javascript
+react
+node.js
+flask
+django
+streamlit
+git
+github
+linux
+bash
+
+mysql
+postgresql
+mongodb
+sql
+nosql
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+
+machine learning
+deep learning
+artificial intelligence
+computer vision
+natural language processing
+nlp
+recommendation systems
+reinforcement learning
+
+tensorflow
+keras
+pytorch
+opencv
+transformers
+
+power bi
+tableau
+excel
+data visualization
+data cleaning
+data preprocessing
+data wrangling
+
+eda
+feature engineering
+model evaluation
+cross validation
+grid search
+random forest
+decision tree
+svm
+knn
+logistic regression
+linear regression
+xgboost
+lightgbm
+catboost
+
+big data
+apache spark
+hadoop
+aws
+azure
+gcp
+
+streaming data
+real-time analytics
+cloud computing
+api development
+rest api
+json
+xml
+
+resume parsing
+ats optimization
+job description analysis
+soft skills
+communication
+teamwork
+problem solving
+critical thinking
+leadership
+project management
